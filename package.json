@@ -1,6 +1,6 @@
 {
   "name": "node-irc-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An irc client written in node. Probably better off going with WeeChat as I am just doing this for fun.",
   "main": "index.js",
   "directories": {
