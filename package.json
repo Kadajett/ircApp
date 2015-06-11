@@ -1,0 +1,36 @@
+{
+  "name": "node-irc-cli",
+  "version": "0.0.1",
+  "description": "An irc client written in node. Probably better off going with WeeChat as I am just doing this for fun.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadajett/ircApp.git"
+  },
+  "keywords": [
+    "node",
+    "irc",
+    "cli",
+    "blessed",
+    "curses"
+  ],
+  "author": "Jeremy Stover (Kadajett)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kadajett/ircApp/issues"
+  },
+  "homepage": "https://github.com/Kadajett/ircApp#readme"
+}
